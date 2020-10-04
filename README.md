@@ -19,7 +19,7 @@
 **4.** Import wapy.py in your python file with <span style="color: plum">import</span> <span style="color: gray">wapy</span>.
 
 
-Make sure your Python is up to date! WAPY was coded in **Python 3.8.6**, so if your Python version is to new or to old, there may occur errors or bugs.
+Make sure your Python is up to date! WAPY was coded in **Python 3.8.6**, so if your Python version is too new or too old, there may occur errors or bugs.
 
 <br>
 

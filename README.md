@@ -133,6 +133,7 @@ Here are listed all functions that are available in WAPY.
 <pre>
 import wapy
 
+init()
 while True:
     unread()
     response('-wapy', 'text', text='Hello World!')
@@ -151,7 +152,7 @@ while True:
 <pre>
 import wapy
 
-
+init()
 with open('commands.json') as json_file:
     commands = json.load(json_file)
 

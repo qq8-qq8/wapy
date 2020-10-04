@@ -450,8 +450,3 @@ def unread(driver=driver):
         unread_message.click()
     except:
         pass
-
-# __main__
-if __name__ == "__main__":
-    print('https://github.com/qq8-qq8/wapy')
-    input()
